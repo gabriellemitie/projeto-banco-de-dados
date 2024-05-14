@@ -7,6 +7,5 @@
 
 
 
-# Diagrama Relacional
-  ![image](https://github.com/gabriellemitie/projeto-banco-de-dados/assets/99052048/2863fbf2-fe64-4fa1-9616-426b86993f5d)
+# Diagrama 
 
