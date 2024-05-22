@@ -10,6 +10,12 @@
 # Diagrama 
 ![image](https://github.com/gabriellemitie/projeto-banco-de-dados/assets/99052048/e6f4633e-62b3-4497-ba5c-b0cf60ad9c2c)
 
+## Software usado 
+- PG Admin 4
 
+## Como rodar os scripts
+1. Rodar primeiro o arquivo "HEFESTO" para criação de tabelas
+2. Rodar queries
+3. Caso seja necessário, usar o arquivo "HADES" para deletar qualquer tabela  
 
 
