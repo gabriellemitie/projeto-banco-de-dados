@@ -8,7 +8,8 @@
 
 
 # Diagrama 
-![image](https://github.com/gabriellemitie/projeto-banco-de-dados/assets/99052048/0f53738d-231a-477b-ac3f-99808845225f)
+![image](https://github.com/gabriellemitie/projeto-banco-de-dados/assets/99052048/e6f4633e-62b3-4497-ba5c-b0cf60ad9c2c)
+
 
 
 
