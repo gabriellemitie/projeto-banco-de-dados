@@ -16,7 +16,8 @@
 
 ## Como rodar os scripts
 1. Rodar primeiro o arquivo "HEFESTO" para criação de tabelas
-2. Rodar queries
-3. Caso seja necessário, usar o arquivo "HADES" para deletar qualquer tabela  
+2. Rodar queries para gerar as funções
+3. Chamar funções com os parâmetros
+4. Caso seja necessário, usar o arquivo "HADES_V1" para deletar qualquer tabela  
 
 
