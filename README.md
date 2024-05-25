@@ -8,7 +8,8 @@
 
 
 # Diagrama 
-![image](https://github.com/gabriellemitie/projeto-banco-de-dados/assets/99052048/e6f4633e-62b3-4497-ba5c-b0cf60ad9c2c)
+![digrama_banco](https://github.com/gabriellemitie/projeto-banco-de-dados/assets/99052048/abc674cc-7a00-481c-be95-6095ff65ae39)
+
 
 ## Software usado 
 - PG Admin 4
